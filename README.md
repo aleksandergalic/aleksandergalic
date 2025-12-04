@@ -1,6 +1,11 @@
 ## Hi there/ Pozdravljen! 👋
-## Opis sebe 👋
-	Sem Aleksander Galić in sem iz Nove Gorice. Trenutno sem dijak na Šolskem Centru Nova Gorica na smeri tehnik računalništva.
+Sem Aleksander Galić in sem iz Nove Gorice. Trenutno sem dijak 3. letnika smeri tehnik računalništva na Šolskem Centru Nova Gorica.
+Za ta program sem se odločil, ker me zanima programiranje, mreže in računalništvo nasplošno 😊.
+
+Do sedaj sem se naučil:
+	Java
+
+
 <!--
 **aleksandergalic/aleksandergalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
