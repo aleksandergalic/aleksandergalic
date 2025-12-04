@@ -9,11 +9,13 @@ Do sedaj sem se naučil:
   - 1D in 2D tabele
   - uporaba StringBufferja
   - upporaba splita()
-- html in css
+
+- HTML in CSS
   - ustvarjanja forma
   - uporaba div-a 
   - tabele
   - osnovne funkcije
+
 - Linux osnove
 	_________________________________________________________________________________
 Rad bi se še naučil:  
@@ -22,6 +24,7 @@ Rad bi se še naučil:
 - Python
 - C++
 - C#
+- Linux (napredne funkcije)
 
 <!--
 **aleksandergalic/aleksandergalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
