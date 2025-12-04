@@ -25,7 +25,14 @@ Rad bi se še naučil:
 - C++
 - C#
 - Linux (napredne funkcije)
+_________________________________________________________________________________
+Za dostop do mojega profila klinite na to poevzavo:
 
+[aleksandergalic/profile](https://github.com/aleksandergalic) <--
+
+Za tutorial, kako narediti README.md:
+
+[tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg) <--
 <!--
 **aleksandergalic/aleksandergalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
