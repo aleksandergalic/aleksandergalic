@@ -3,7 +3,8 @@ Sem Aleksander Galić in sem iz Nove Gorice. Trenutno sem dijak 3. letnika smeri
 Za ta program sem se odločil, ker me zanima programiranje, mreže in računalništvo nasplošno 😊.
 
 Do sedaj sem se naučil:
-	- Java
+
+- Java
   - osnove 
   - 1D in 2D tabele
   - uporaba StringBufferja
@@ -13,9 +14,14 @@ Do sedaj sem se naučil:
   - uporaba div-a 
   - tabele
   - osnovne funkcije
-- Linux fundementals
+- Linux osnove
 	_________________________________________________________________________________
-
+Rad bi se še naučil:  
+  
+- LUA
+- Python
+- C++
+- C#
 
 <!--
 **aleksandergalic/aleksandergalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
