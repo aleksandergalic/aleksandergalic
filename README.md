@@ -3,14 +3,15 @@ Sem Aleksander Galić in sem iz Nove Gorice. Trenutno sem dijak 3. letnika smeri
 Za ta program sem se odločil, ker me zanima programiranje, mreže in računalništvo nasplošno 😊.
 
 Do sedaj sem se naučil:
-	-Raptor (podobno kot Scratch)
-	-Java:
+	- Raptor (podobno kot Scratch)
+	- Java:
 		- osnove 
   		- 1D in 2D tabele
   		- uporaba StringBufferja
   		- upporaba splita()
-	-HTML in CSS
+	- HTML in CSS
 	-
+	_________________________________________________________________________________
 
 
 <!--
