@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="title.svg" width="100" height="100" alt="css-in-readme"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="title.svg" alt="css-in-readme"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p>Welcome to my readme repository!<br>
 I'm Aleksander, an aspiring student learning full-stack development in <a href="https://www.scng.si"><img src="https://www.scng.si/wp-content/uploads/2017/06/SCNG-Color-2.svg" width="50px"/>Šolski Center Nova Gorica</a>, Slovenia.</p>
   
