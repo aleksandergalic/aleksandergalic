@@ -1,8 +1,20 @@
-## Hi there/ Pozdravljen! 👋
-Sem Aleksander Galić in sem iz Nove Gorice. Trenutno sem dijak 3. letnika smeri tehnik računalništva na Šolskem Centru Nova Gorica.
-Za ta program sem se odločil, ker me zanima programiranje, mreže in računalništvo nasplošno 😊.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, wonderful Github user! </h1>
+<p>Welcome to my readme repository!<br>
+I'm Aleksander, an aspiring student learning full-stack development in <a href="https://www.scng.si"><img src="https://www.scng.si/wp-content/uploads/2017/06/SCNG-Color.svg" width="50px"/>Šolski Center Nova Gorica</a>, Slovenia.</p>
+  
+<h3>Currently learning:</h3>
+<p>
+	<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+	<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="css" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=css&logoColor=white" />
+	<img alt="java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
+	<img alt="sql" src="https://img.shields.io/badge/-SQL-E34F26?style=flat-square&logo=sql&logoColor=white" />
+</p>
 
-Do sedaj sem se naučil:
+
+
 
 - Java
   - osnove 
