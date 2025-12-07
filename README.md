@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40"/><img src="title.svg" alt="css-in-readme" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40"/></h1>
 
 Za Slovenščino, poglej [README.sl.md](README.sl.md)
-
+https://vbr.nathanchung.dev/badge?page_id=aleksandergalic
 Welcome to my readme repository!<br>
 I'm Aleksander, an aspiring student learning full-stack development.
 
