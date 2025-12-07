@@ -13,7 +13,13 @@
                     color: red;
                 }
                 to {
+                    color: yellow;
+                }
+                to{
                     color: green;
+                }
+                to{
+                    color: blue;
                 }
             }
             </style>
