@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40"/>&ensp;&ensp;&ensp;&ensp;<img src="title.svg" alt="css-in-readme" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40"/></h1>
 
+Za Slovenščino, poglej [README.sl.md](README.sl.md)
+
 Welcome to my readme repository!<br>
 I'm Aleksander, an aspiring student learning full-stack development.
 
@@ -8,7 +10,7 @@ I'm Aleksander, an aspiring student learning full-stack development.
 - 🎓 Currently a student in <a href="https://www.scng.si">Šolski Center Nova Gorica</a><img src="https://www.scng.si/wp-content/uploads/2017/06/SCNG-Color-2.svg" height="20px"/>, Slovenia.
 - Dual booting [<img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.png" height="30px" align="top" alt="Arch Linux" title="Arch Linux"/>](https://archlinux.org/) and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" height="20px" align="center top" alt="Windows" title="Windows"/>
 
-## Currently learning:
+## My tech stack
 <p>
 	<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 	<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
