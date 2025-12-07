@@ -15,12 +15,6 @@
                 to {
                     color: yellow;
                 }
-                to{
-                    color: green;
-                }
-                to{
-                    color: blue;
-                }
             }
             </style>
             <h1>Hello World!</h1>
